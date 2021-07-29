@@ -1,0 +1,9 @@
+﻿  SeqList.c
+D:\ducument\学习\本地库\test\数据结构test\数据结构test\SeqList.c(42,41): warning C4013: “realloc”未定义；假设外部返回 int
+D:\ducument\学习\本地库\test\数据结构test\数据结构test\SeqList.c(46,8): warning C4013: “exit”未定义；假设外部返回 int
+D:\ducument\学习\本地库\test\数据结构test\数据结构test\SeqList.c(134,6): warning C4013: “free”未定义；假设外部返回 int
+D:\ducument\学习\本地库\test\数据结构test\数据结构test\SeqList.c(146,12): warning C4098: “SeqListFind”:“void”函数返回值
+D:\ducument\学习\本地库\test\数据结构test\数据结构test\SeqList.c(149,11): warning C4098: “SeqListFind”:“void”函数返回值
+  数据结构test.c
+  正在生成代码...
+  数据结构test.vcxproj -> D:\ducument\学习\本地库\test\数据结构test\Debug\数据结构test.exe
